@@ -1,7 +1,7 @@
 fontawesome
 ===========
-fontawesome 4.2.0 re-packaged for linto:fontawesome meteorjs package
+fontawesome 4.2.0 re-packaged for meteorjs
 
-tested in all recent browsers & phonegap mobile apps
+tested in all recent browsers & mobile apps
 
-working demo - http://linto.meteor.com/
+working demo - http://linto.meteor.com (https://github.com/HedCET/spreadjs)
