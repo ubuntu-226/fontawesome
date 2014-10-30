@@ -1,6 +1,6 @@
 fontawesome 4.2.0
 ===========
-fontawesome 4.2.0 re-packaged for meteorjs 0.6.* & above
+fontawesome 4.2.0 re-packaged for meteorjs
 
 tested in all recent browsers & mobile apps
 
