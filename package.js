@@ -1,6 +1,6 @@
 Package.describe({
 	summary: "4.2.0",
-	version: "1.0.0",
+	version: "4.2.0",
 	git: ""
 });
 
