@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "4.2.0",
+	summary: "fontawesome 4.2.0 re-packaged for meteorjs",
 	version: "4.2.0",
 	git: ""
 });
