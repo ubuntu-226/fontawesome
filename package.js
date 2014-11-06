@@ -1,7 +1,7 @@
 Package.describe({
 	summary: "fontawesome 4.2.0 re-packaged for meteorjs",
-	version: "4.2.0",
-	git: ""
+	version: "4.2.2",
+	git: "https://github.com/HedCET/fontawesome.git"
 });
 
 Package.onUse(function(api) {
